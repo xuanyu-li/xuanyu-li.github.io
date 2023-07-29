@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Xuanyu Li"
-  avatar           : "profile1.png"
+  avatar           : "profile.jpg"
   bio              : #"test"
   location         : #"Beijing,China"
   employer         :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/Xuanyu-Li/"
+  github           : "xuanyu-li"
   google_plus      :
   keybase          :
   instagram        :
