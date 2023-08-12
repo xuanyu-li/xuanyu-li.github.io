@@ -12,7 +12,7 @@ Xuanyu Li
 ======
 I am a Ph.D student at the University of Chineses Academy of Sciences, School of Mathemetical Sciences. My advisor is Professor Sanguo Zhang.
 
-I obtained my bachelor degree in from the school of mathemetics and statistics at Wuhan University in 2022. 
+I obtained my bachelor degree from the school of mathemetics and statistics at Wuhan University in 2022. 
 
 News
 ======
@@ -20,7 +20,7 @@ I have been awarded a scholarship from China Schorlaship Council at June 7th in 
 I am planning to visit the University of Toronto sponsored by this scholarship.
 
 ## Educations
-- Sep 2021 - Present, M.S. in *Probability and Mathematical Statistics*  
+- Sep 2022 - Present, Ph.D in *Probability and Mathematical Statistics*  
 School of Mathematical Sciences, University of Chinese Academy of Sciences.
 Advisor: Prof. [Sanguo Zhang](http://people.ucas.ac.cn/~sgzhang)
 
