@@ -14,12 +14,8 @@ I am a Ph.D student at the University of Chineses Academy of Sciences, School of
 
 I obtained my bachelor degree from the school of mathemetics and statistics at Wuhan University in 2022. 
 
-My research interest lies in High Dimensional Statistics and Causal Inference.
+My research interest lies in High Dimensional Statistics and Causal Inference. 
 
-News
-======
-I have been awarded a scholarship from China Schorlaship Council at June 7th in 2023.
-I am planning to visit the University of Toronto sponsored by this scholarship.
 
 ## Educations
 - Sep 2022 - Present, Ph.D in *Probability and Mathematical Statistics*  
