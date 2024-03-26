@@ -32,3 +32,5 @@ ICSA 2023 China Conference, Chengdu, Sichuan, China
 
 ## Publications
 - Gene expression prediction based on neighbour connection neural network utilizing gene interaction graphs， Plos one, 2023
+
+- Integrative learning of linear non-Gaussian directed acyclic graphs, Submitted to SCIENCE CHINA Mathematics.
