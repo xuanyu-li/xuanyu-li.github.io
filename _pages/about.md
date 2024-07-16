@@ -30,6 +30,11 @@ School of Mathematics and Statistics, Wuhan University.
 
 ICSA 2023 China Conference, Chengdu, Sichuan, China
 
+Chinese Asscociation for Applied Statistics-High Dimensional Statistics Conference 2024, Nanjing, China
+
+## Awards 
+- 2023 Excellent undergradute course Teaching Assistant in UCAS
+
 ## Publications
 - Gene expression prediction based on neighbour connection neural network utilizing gene interaction graphs， Plos one, 2023
 
