@@ -32,10 +32,13 @@ ICSA 2023 China Conference, Chengdu, Sichuan, China
 
 Chinese Asscociation for Applied Statistics-High Dimensional Statistics Conference 2024, Nanjing, China
 
+Chinese Statistical Association of Young Scholars Conference, 2025, Jinan, China. (Travel award)
 ## Awards 
 - 2023 Excellent undergradute course Teaching Assistant in UCAS
 
 ## Publications
-- Gene expression prediction based on neighbour connection neural network utilizing gene interaction graphs， Plos one, 2023
+- Li, X., Zhang, X., He, W., Bu, D., and Zhang, S. Gene expression prediction based on neighbour connection neural network utilizing gene interaction graphs， Plos one, 2023
 
-- Integrative learning of linear non-Gaussian directed acyclic graphs, Submitted to SCIENCE CHINA Mathematics.
+- Li, X., Zhang, S., Ren, M., and Zhang, Q. Integrative learning of linear non-Gaussian directed acyclic graphs with application to multi-source gene regulatory network analysis, Annals of Applied Statistics, Major Revision.
+
+- Li, X., Liu, Z., and Wang, L. Semi-Supervised Doubly Deep Learning for Partially Linear Regression, Working paper.
