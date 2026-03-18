@@ -23,7 +23,7 @@ School of Mathematical Sciences, University of Chinese Academy of Sciences.
 
 Advisor: Prof. [Sanguo Zhang](http://people.ucas.ac.cn/~sgzhang)
 
--July 2025 - Present, Visiting Ph.D 
+- July 2025 - Present, Visiting Ph.D 
 
  Department of Statistics and Data Science, National University of Singapore.
 
